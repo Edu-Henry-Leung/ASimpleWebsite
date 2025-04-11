@@ -1,1 +1,1 @@
-# ASimpleWebsite.github.io
+# ASimpleWebsite
